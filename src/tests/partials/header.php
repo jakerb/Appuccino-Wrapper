@@ -1,0 +1,1 @@
+<header class="<?php echo isset($class) ? $class : ''; ?>"></header>
