@@ -7,7 +7,7 @@ If your website is running WordPress, you can use the [Appuccino WordPress plugi
 ---
 
 ## Setting up.
-To get you started we have created a simple test to output default content. We use a little tool called [Clamp](https://github.com/jide/clamp) which creates a little web server for testing the project, you can get started with the demo here:
+To get you started we have created a simple test to output default content. We use a little tool called [Clamp](https://github.com/jide/clamp) which creates a web server for testing the project, you can get started with the demo here:
 
 ```bash
 clamp apache start
